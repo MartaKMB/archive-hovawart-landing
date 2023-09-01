@@ -1,10 +1,24 @@
-# hovawart_breed_website
+# LANDING PAGE for 'Las Ksiezniczek FCI'
 
-responsive layout for hovawart breed website
+This is landing page for hovawart breed website 'Las Ksiezniczek FCI', [Instagram](https://www.instagram.com/dorota.mucha.las.ksiezniczek/), [FB](https://www.facebook.com/lasksiezniczek/)
 
-- design and implementation: Marta Mucha-Balcerek (https://www.linkedin.com/in/marta-mucha-balcerek-99012113b/ )
+- Design and implementation: [Marta Mucha-Balcerek](https://www.linkedin.com/in/m-mucha-balcerek/)
+- Photos: [Maciej Załuski](http://hovki.pl/), [Kasia Godlewska](http://kasiagodlewska.pl) and Dorota Mucha
 
-- photos: Maciej Załuski (http://hovki.pl/), Kasia Godlewska (http://kasiagodlewska.pl) and Dorota Mucha
+## Technologies
 
-- color Pallete from: http://www.color-hex.com/color-palette/25874 
-and font ‘Amatic SC’ from fontello: https://fonts.googleapis.com/css?family=Amatic+SC:400,700&amp;subset=latin-ext
+In this project direcotry is website made with:
+
+- HTML
+- CSS
+- JavaScript
+
+Website is mobile-friendly.
+
+![Screenshot](./img/screenshot-for-readme.png)
+
+## Links
+
+See website at [github-pages](https://martakmb.github.io/hovawart_breed/index.html)
+
+This is archive website. New website (build with WordPress) is running at [hovawart.pl](https://hovawart.pl).
