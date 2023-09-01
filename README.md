@@ -19,6 +19,6 @@ Website is mobile-friendly.
 
 ## Links
 
-See website at [github-pages](https://martakmb.github.io/hovawart_breed/index.html)
+See website at [github-pages](https://martakmb.github.io/archive-hovawart-landing/)
 
 This is archive website. New website (build with WordPress) is running at [hovawart.pl](https://hovawart.pl).
